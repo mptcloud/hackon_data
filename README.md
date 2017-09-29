@@ -4,7 +4,7 @@ This is the project repository for our 2017 HackOn(Data) hackathon project selec
 
 ## Our approach
 
-We wanted to predict the (category-wise) sales ranking of a product using all the available data at our disposal, except the image features. Taken as a supervised problem, we used a classification scheme via XGBoost to predict the most likely ranges of sales ranks, as opposed to predicting the sales ranking directly (owing to our relative lack of computing power to perform pairwise comparisons of all the porducts in a certain category).
+We wanted to predict the (category-wise) sales ranking of a product using all the available data at our disposal, except the image features. Taken as a supervised problem, we used a classification scheme via XGBoost to predict the most likely ranges of sales ranks, as opposed to predicting the sales ranking directly (owing to our relative lack of computing power to perform pairwise comparisons of all the products in a certain category).
 
 ## For more information
 
